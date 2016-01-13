@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>93F01130-DCC3-4DF9-AA8E-78FCDDD7F823</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProtoTypeApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7AD03C4F55833E0C635C1EA265F83256F5EEA0FC</key>
+		<string>https://github.com/darshanrahate/One-page-iOS-prototype-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProtoTypeApp/ProtoTypeApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7AD03C4F55833E0C635C1EA265F83256F5EEA0FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/darshanrahate/One-page-iOS-prototype-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7AD03C4F55833E0C635C1EA265F83256F5EEA0FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7AD03C4F55833E0C635C1EA265F83256F5EEA0FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -487,8 +487,8 @@
 
 -(void)sliderAction:(id)sender
 {
-//    UISlider *slider = (UISlider*)sender;
-//    float value = slider.value;
+    UISlider *slider = (UISlider*)sender;
+    float value = slider.value;
 }
 
 -(void)tBtnActionOfSubmit
